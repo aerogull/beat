@@ -10,7 +10,12 @@ This is my journal of the design and building process of **beat**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/368).
 
 
-## 10/9/2025 - started working on the basic devboard  
+## 10/9/2025 7 PM - started working on the basic devboard  
 
 i worked with the adafruit feather m0 devboard and started customizing it to my spec. figured out some parts i needed and decided not to use the rp2040 for now. i've almost finished making sure everything is correct, and i'll be triple checking everything against the docs soon. i also added the mouse sensors according to the specs provided by pixart. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--6276fa1554aa9470053b2d1d058201fc44453d6a/image.png)  
+
+## 10/9/2025 8 PM - added 1.9v and switches  
+
+i added the linear voltage regulator and supporting electronics for the 1.9v current required to run the paw3395 sensor. i also started adding the wiring for the mouse switches. they use spst switches from omron. i also added rc filter to each of the switches, using a 1.5kOhm resistor and a 1uF capaciator. also, i sectioned off the schematic.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--523bb50679f0954ff9352f04f2b31dc59555c1fd/image.png)
+  
 
