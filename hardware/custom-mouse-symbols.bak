@@ -51,8 +51,8 @@
 		)
 		(symbol "PAW3395_0_1"
 			(rectangle
-				(start 10.16 -10.16)
-				(end -10.16 11.43)
+				(start -10.16 12.7)
+				(end 10.16 -10.16)
 				(stroke
 					(width 0)
 					(type default)
@@ -64,7 +64,7 @@
 		)
 		(symbol "PAW3395_1_1"
 			(pin no_connect line
-				(at -10.16 10.16 180)
+				(at -12.7 10.16 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -82,7 +82,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 7.62 180)
+				(at -12.7 7.62 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin power_out line
-				(at -10.16 5.08 180)
+				(at -12.7 5.08 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -118,7 +118,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 2.54 180)
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 0 180)
+				(at -12.7 0 0)
 				(length 2.54)
 				(name "VDDREG"
 					(effects
@@ -154,7 +154,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 -2.54 180)
+				(at -12.7 -2.54 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -172,7 +172,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 -5.08 180)
+				(at -12.7 -5.08 0)
 				(length 2.54)
 				(name "VDDIO"
 					(effects
@@ -190,7 +190,7 @@
 				)
 			)
 			(pin power_out line
-				(at -10.16 -7.62 180)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "GNDIO"
 					(effects
@@ -208,7 +208,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 10.16 10.16 0)
+				(at 12.7 10.16 180)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -226,7 +226,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 7.62 0)
+				(at 12.7 7.62 180)
 				(length 2.54)
 				(name "LED_P"
 					(effects
@@ -244,7 +244,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 5.08 0)
+				(at 12.7 5.08 180)
 				(length 2.54)
 				(name "NRESET"
 					(effects
@@ -262,7 +262,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 2.54 0)
+				(at 12.7 2.54 180)
 				(length 2.54)
 				(name "NCS"
 					(effects
@@ -280,7 +280,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 0 0)
+				(at 12.7 0 180)
 				(length 2.54)
 				(name "MISO"
 					(effects
@@ -298,7 +298,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -2.54 0)
+				(at 12.7 -2.54 180)
 				(length 2.54)
 				(name "MOSI"
 					(effects
@@ -316,7 +316,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -5.08 0)
+				(at 12.7 -5.08 180)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -334,7 +334,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -7.62 0)
+				(at 12.7 -7.62 180)
 				(length 2.54)
 				(name "MOTION"
 					(effects
