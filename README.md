@@ -8,6 +8,8 @@ I've wanted to design my own mouse for the longest time. I've built my own keybo
 - Lipo battery (500mAH)
 - Dongle (nRF52840 + USBC) (COMING SOON)
 - USBC charging
+
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d596facdfb798569c1ca93615b8ead4a7d7a9a30_screenshot_2025-11-26_212758.png)
 ## Case
 ## Firmware
 _**Warning: The PAW3395 Driver is Propiretiary, and Can Not Be Provided by Me**_ 

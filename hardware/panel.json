@@ -1,0 +1,25 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "2",
+        "cols": "3"
+    },
+    "source": {
+        "tolerance": "0.1mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "-0.2mm"
+    },
+    "framing": {
+        "type": "railslr",
+        "fillet": "0.5mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "3.5mm",
+        "voffset": "3.5mm",
+        "opening": "2mm"
+    }
+}
