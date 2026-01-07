@@ -9,12 +9,15 @@ I've wanted to design my own mouse for the longest time. I've built my own keybo
 - Dongle (nRF52840 + USBC) (COMING SOON)
 - USBC charging
 
-![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d596facdfb798569c1ca93615b8ead4a7d7a9a30_screenshot_2025-11-26_212758.png)
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/04160552b024e81b_screenshot_2025-12-28_204937.png)
+![schematic1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76f6248377a83d3c_screenshot_2026-01-07_154619.png)
+![schematic2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/436c1564a4b82bb4_screenshot_2026-01-07_154636.png)
 ## Case
+It's just a simple design without great ergonomics, mostly used for testing and ease of access to the board.
 ## Firmware
 _**Warning: The PAW3395 Driver is Propiretiary, and Can Not Be Provided by Me**_ 
 
-### BOM
+## BOM
 |Reference|Qty|Value|DNP|Exclude from BOM|Exclude from Board|Footprint|Datasheet|
 |-----|-----|-----|-----|-----|-----|-----|-----|
 |A1|1|~||||custom:PAW3395||
@@ -57,7 +60,8 @@ _**Warning: The PAW3395 Driver is Propiretiary, and Can Not Be Provided by Me**_
 
 part sources for my use:
 
-https://www.aliexpress.us/item/3256808047644394.html
-https://www.aliexpress.us/item/2251832785225269.html
-https://www.aliexpress.us/item/3256808439402083.html
-https://www.aliexpress.us/item/3256808650485013.html
+https://www.aliexpress.us/item/3256808047644394.html\
+https://www.aliexpress.us/item/2251832785225269.html\
+https://www.aliexpress.us/item/3256808439402083.html\
+https://www.aliexpress.us/item/3256808650485013.html\
+https://www.aliexpress.us/item/3256808865384672.html
