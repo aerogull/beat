@@ -109,7 +109,7 @@
       91,
       91,
       91,
-      91
+      341
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -121,7 +121,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": 0
+    "sorting_column": 2
   },
   "open_jobsets": [],
   "project": {
